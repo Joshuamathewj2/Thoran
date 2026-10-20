@@ -4,7 +4,9 @@
 
 A _thoran_ is the festive garland hung across the doorway when a celebration is about to begin. **Thoran** is the doorway to your event. You answer six quick questions (event type, date, budget, guests, city, culture) and Gemini drafts a full plan you can edit: a budget split, a countdown timeline, a vendor checklist and personalized ideas. It all lives on one dashboard, and a chat assistant knows your plan.
 
-**Live demo:** `https://thoran-five.vercel.app/` · **Demo video:** `<add link>`
+**Live demo:** https://thoran-five.vercel.app/ · **Demo video:** https://youtu.be/CdI25O7siXY
+
+**Lighthouse (live, desktop):** Performance 96 · Accessibility 100 · Best Practices 96 · SEO 100.
 
 ---
 
