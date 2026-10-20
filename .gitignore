@@ -12,3 +12,6 @@ coverage/
 
 # local tooling output
 .playwright-mcp/
+
+# local-only: submission assets
+docs/
