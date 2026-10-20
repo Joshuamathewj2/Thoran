@@ -14,4 +14,5 @@ coverage/
 .playwright-mcp/
 
 # local-only: submission assets
-docs/
+docs/*.png
+docs/*.mp4
